@@ -9,7 +9,7 @@
 </p>
 
 **Port_** is a read-only crypto portfolio tracker for people with a lot of wallets. Paste an
-address and see everything it holds, across Solana, the EVM chains and Hyperliquid: tokens, DeFi,
+address and see everything it holds, across Solana, the EVM chains, Hyperliquid and more: tokens, DeFi,
 perps, prediction markets and NFTs, with PnL and cost basis on top.
 
 The numbers are honest on purpose. Every price carries where it came from and how deep the market
