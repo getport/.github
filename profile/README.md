@@ -29,7 +29,7 @@ In claude.ai, Claude Desktop or ChatGPT, add a custom connector with `https://ge
 It reads your own port and nothing else, and Disconnect in Settings stops it on its next call.
 [How AI access is kept safe](https://docs.getport.app/security/ai-access/).
 
-### Here
+### Repositories
 
 | Repository | What it is |
 | --- | --- |
